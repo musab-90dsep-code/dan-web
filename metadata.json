@@ -1,0 +1,6 @@
+{
+  "name": "Transparent Charity Platform",
+  "description": "একটি দুর্নীতিমুক্ত এবং সম্পূর্ণ স্বচ্ছ চ্যারিটি প্ল্যাটফর্ম যা রিয়েল-টাইম ট্র্যাকিংয়ের মাধ্যমে মানুষের বিশ্বাস ও সততা নিশ্চিত করে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
